@@ -15,7 +15,7 @@ at which point we broadcast it to the clients on the server.
           To Play with hosted app on heroku, copy/paste link into your browser in 2 separate tabs
           to begin playing: https://multiplayerchess3.herokuapp.com/ 
        ********************************************************************************************
-
+   ##Note: You can play with a friend on separate devices if you initiate the game(open the link) at the same time.
 
 To run:
           once respository has been cloned/downloaded to your local system.
