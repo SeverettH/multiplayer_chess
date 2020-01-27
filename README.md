@@ -11,6 +11,11 @@ I implemented Socket.io to the Node server to send & handle client messages.
 The Socket.io messages are sent to the server when the player completes their move,
 at which point we broadcast it to the clients on the server.
 
+       ********************************************************************************************   
+          To Play with hosted app on heroku, copy/paste link into your browser in 2 separate tabs
+          to begin playing: https://multiplayerchess3.herokuapp.com/ 
+       ********************************************************************************************
+
 
 To run:
           once respository has been cloned/downloaded to your local system.
